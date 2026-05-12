@@ -76,7 +76,7 @@ function switchSection(id) {
    2) Run supabase_setup.sql in Supabase SQL Editor.
    3) This site saves tournament, players, groups, fixtures, knockout, match log, and seasons into the app_data table.
 */
-const SUPABASE_URL = 'https://tfqngfotqbixqessxbie.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://tfqngfotqbixqessxbie.supabase.co';
 
 const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRmcW5nZm90cWJpeHFlc3N4YmllIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1NzU4NzIsImV4cCI6MjA5NDE1MTg3Mn0.6tO1GecQbyV5LWVnbo0rgXRJGSuuxmdtzdTBjEDG0cI';
 
